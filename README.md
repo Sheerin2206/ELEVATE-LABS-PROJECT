@@ -115,6 +115,6 @@ GROUP BY d.department_name;
 
  Deliverables
 
-* ✔️ `employee_tracker.sql` (complete SQL script with DDL, DML, procedures, views, triggers, etc.)
-* ✔️ `README.md` (this documentation)
+*  `employee_tracker.sql` (complete SQL script with DDL, DML, procedures, views, triggers, etc.)
+*  `README.md` (this documentation)
 
